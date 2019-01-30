@@ -86,6 +86,7 @@ class Dog
     if !dog.empty?
       
     else
+      
     end
   end
 
